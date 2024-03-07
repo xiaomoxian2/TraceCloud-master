@@ -1,0 +1,5 @@
+2023-11-30 13:37:36.364 - INFO 32460 traceID= --- [main] c.t.customer.CustomerCloudApplication    : Starting CustomerCloudApplication using Java 17.0.9 with PID 32460 (D:\Projects\javaProject\TraceCloud-master\customer\target\classes started by wuyue in D:\Projects\javaProject\TraceCloud-master)
+2023-11-30 13:37:36.395 - INFO 32460 traceID= --- [main] c.t.customer.CustomerCloudApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-11-30 13:37:39.904 - INFO 32460 traceID= --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8083
+2023-11-30 13:37:39.919 - INFO 32460 traceID= --- [main] c.t.customer.CustomerCloudApplication    : Started CustomerCloudApplication in 4.125 seconds (process running for 9.26)
+2023-11-30 13:39:50.067 - INFO 32460 traceID=b805424b25a965a4bc6136949a9d1c02 --- [reactor-http-nio-2] c.t.customer.CustomerCloudApplication    : http request customer ...
